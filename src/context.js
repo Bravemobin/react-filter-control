@@ -57,7 +57,7 @@ Button.defaultProps = {
 };
 
 const Input = ({ value, onChange }) => (
-  <input value={value} onChange={onChange} className="fc-value-editor" />
+  <input value={value} onChange={onChange} className="fc-value-editor form-control" />
 );
 
 Input.propTypes = {
