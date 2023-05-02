@@ -67,3 +67,7 @@
   color: red;
   cursor: pointer;
 }
+
+.fc-value-editor {
+  margin: 3px;
+}
